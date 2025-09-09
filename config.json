@@ -1,30 +1,104 @@
 {
   "cache_time": 7200,
   "api_site": {
-    "hnzy": {
-      "api": "https://hnzyapi.com/api.php/provide/vod",
-      "name": "火鸟资源",
-      "is_adult": false
+    "饭太硬": {
+      "api": "http://饭太硬.top/tv",
+      "name": "饭太硬影视源",
+      "detail": "稳定高清资源",
+      "可用性": "需特殊网络访问",
+      "加载速度": "快速"
     },
-    "lzzy": {
-      "api": "https://api.liangzizy.com/inc/apijson_vod.php",
-      "name": "量子资源",
-      "is_adult": false
+    "菜妮丝": {
+      "api": "https://tvbox.cainisi.cf",
+      "name": "菜妮丝资源",
+      "detail": "多线路支持",
+      "可用性": "直接访问",
+      "加载速度": "快速"
     },
-    "ffzy": {
-      "api": "https://ffzyapi.com/api.php/provide/vod",
-      "name": "非凡资源",
-      "is_adult": false
+    "元兴": {
+      "api": "https://freed.yuanhsing.cf/TVBox/meowcf.json",
+      "name": "元兴仓库",
+      "detail": "持续更新接口",
+      "可用性": "直接访问",
+      "加载速度": "中等"
     },
-    "ykzy": {
-      "api": "https://api.yongjiuzy.cc/provide/vod",
-      "name": "永久资源",
-      "is_adult": false
+    "GYTV多仓": {
+      "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json",
+      "name": "GYTV聚合源",
+      "detail": "多CDN加速",
+      "可用性": "全球访问",
+      "加载速度": "极快"
     },
-    "bdzy": {
-      "api": "https://api.1080zyku.com/inc/apijson_vod.php",
-      "name": "百度资源",
-      "is_adult": false
+    "香雅情仓库": {
+      "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/XYQ.json",
+      "name": "XYQ资源",
+      "detail": "高清影视库",
+      "可用性": "稳定",
+      "加载速度": "快速"
+    },
+    "月光宝盒": {
+      "api": "https://jihulab.com/ygbh1/box/-/raw/main/月光宝盒",
+      "name": "月光影视",
+      "detail": "多平台支持",
+      "可用性": "间歇性维护",
+      "加载速度": "中等"
+    },
+    "Alist多仓": {
+      "api": "https://al.gy.workers.dev/",
+      "name": "Alist聚合",
+      "detail": "分布式资源",
+      "可用性": "稳定",
+      "加载速度": "快速"
+    },
+    "4K源": {
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/live.txt",
+      "name": "4K影视源",
+      "detail": "超清资源专线",
+      "可用性": "直接访问",
+      "加载速度": "极快"
+    },
+    "dyttzy": {
+      "api": "http://caiji.dyttzyapi.com/api.php/provide/vod",
+      "name": "电影天堂资源",
+      "detail": "http://caiji.dyttzyapi.com"
+    },
+    "ruyi": {
+      "api": "https://cj.rycjapi.com/api.php/provide/vod",
+      "name": "如意资源"
+    },
+    "heimuer": {
+      "api": "https://json.heimuer.xyz/api.php/provide/vod",
+      "name": "黑木耳",
+      "detail": "https://heimuer.tv"
+    },
+    "bfzy": {
+      "api": "https://bfzyapi.com/api.php/provide/vod",
+      "name": "暴风资源"
+    },
+    "fanty": {
+      "api": "http://www.饭太硬.com/tv",
+      "name": "饭太硬线路",
+      "detail": "带玩偶哥哥4K资源"
+    },
+    "feimao": {
+      "api": "http://肥猫.com/",
+      "name": "肥猫线路"
+    },
+    "moyu": {
+      "api": "http://我不是.摸鱼儿.top",
+      "name": "摸鱼4K线路"
+    },
+    "ouge": {
+      "api": "http://tv.nxog.top/m/",
+      "name": "欧歌单线路"
+    },
+    "lizhi": {
+      "api": "https://原子弹.com/lz",
+      "name": "荔枝线路"
+    },
+    "xiaobei": {
+      "api": "http://小白.love",
+      "name": "小北线路"
     }
   }
 }
